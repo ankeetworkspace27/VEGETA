@@ -2,6 +2,9 @@
 
 > **A voice-controlled AI assistant for Windows that doesn't just talk to your computer — it interacts with it.**
 
+![VEGETA Desktop Interface](docs/images/vegeta-ui.png)
+
+
 ---
 
 ## The Problem
